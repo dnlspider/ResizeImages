@@ -1,0 +1,11 @@
+G:\csharpOwn\ResizeImages\ResizeImages\bin\Release\ResizeImages.exe.config
+G:\csharpOwn\ResizeImages\ResizeImages\bin\Release\ResizeImages.exe
+G:\csharpOwn\ResizeImages\ResizeImages\bin\Release\ResizeImages.pdb
+G:\csharpOwn\ResizeImages\ResizeImages\obj\Release\ResizeImages.csprojResolveAssemblyReference.cache
+G:\csharpOwn\ResizeImages\ResizeImages\obj\Release\ResizeImages.About.resources
+G:\csharpOwn\ResizeImages\ResizeImages\obj\Release\ResizeImages.MainForm.resources
+G:\csharpOwn\ResizeImages\ResizeImages\obj\Release\ResizeImages.frmPreviewImage.resources
+G:\csharpOwn\ResizeImages\ResizeImages\obj\Release\ResizeImages.Properties.Resources.resources
+G:\csharpOwn\ResizeImages\ResizeImages\obj\Release\ResizeImages.csproj.GenerateResource.Cache
+G:\csharpOwn\ResizeImages\ResizeImages\obj\Release\ResizeImages.exe
+G:\csharpOwn\ResizeImages\ResizeImages\obj\Release\ResizeImages.pdb
